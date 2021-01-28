@@ -1,8 +1,24 @@
-### IHM-2021-Projet-MOE-PORTIER-BENAC
+## IHM-2021-Projet-MOE-PORTIER-BENAC
 
 # LinkMe
 
-#### Centralisation des publications sur les réseaux sociaux pour pouvoir poster des photos sur plusieurs réseaux en simultané
+## Centralisation des publications sur les réseaux sociaux pour pouvoir poster des photos sur plusieurs réseaux en simultané
+
+### Parties prenantes
+#### MOA / représentants des utilisateurs
+| Nom           | Prénom     | e-mail                              |
+|---------------|------------|-------------------------------------|
+| Hyver         | Florian    | florian.hyver@iut-rodez.fr          |
+| Tanguy        | Fenouillot | tanguy.fenouillot@iut-rodez.fr      |
+| Perrey-Prillo | Aurélien   | aurelien.perrey-prillo@iut-rodez.fr |
+
+#### MOE / Concepteurs
+| Nom     | Prénom | e-mail                     |
+|---------|--------|----------------------------|
+| Benac   | Julien | julien.benac@iut-rodez.fr  |
+| Portier | Johan  | johan.portier@iut-rodez.fr |
+
+### Description générale du projet
 
 Le but de ce projet est de pouvoir centraliser la gestion de tous les réseaux sociaux sur une seule plateforme. On pourrait alors publier une même photo sur plusieurs réseaux sociaux en simultané. On pourrait aussi spécifier des tags ou des commentaires différents sur les différents réseaux sociaux si on le souhaite. Une liste de diffusion contenant les différents réseaux sociaux sera mise à disposition. La liste sera modifiée automatiquement en fonction du type de poste que l’utilisateur souhaitera publier.
 On pourrait également récupérer les statistiques de chaque poste sur les différents réseaux.
