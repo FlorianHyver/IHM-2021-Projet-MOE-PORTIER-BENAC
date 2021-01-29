@@ -36,3 +36,6 @@ Liste non exhaustive des réseaux sociaux :
 <li>LinkedIn</li>
 <li>Snapchat (story uniquement)</li>
 </ul>
+
+### Lien vers l'analyse PACT
+[Analyse PACT](https://docs.google.com/document/d/1Rpz5693WeM6eeDLN8UUtEG3dongumsbibcLCrT6W4Sw/edit?usp=sharing)
