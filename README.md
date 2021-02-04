@@ -41,4 +41,4 @@ Liste non exhaustive des réseaux sociaux :
 [Analyse PACT](https://docs.google.com/document/d/1Rpz5693WeM6eeDLN8UUtEG3dongumsbibcLCrT6W4Sw/edit?usp=sharing)
 
 ### Lien vers le dossier des prototypes
-[Prototypes](https://drive.google.com/drive/folders/1t6Czd3xJieQmJq3jf0wBgvurOrSrlPgE?usp=sharing)
+[Cheminement centré tâches](https://docs.google.com/document/d/10_7JOWW-QP-r4Z8MC7vCPuaSYdrvBIKDWJ5IaGcj8j4/edit?usp=sharing)
