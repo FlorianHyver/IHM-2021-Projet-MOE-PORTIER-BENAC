@@ -48,3 +48,4 @@ Liste non exhaustive des réseaux sociaux :
 
 Ressources Flutter
 https://gallery.flutter.dev/#/demo/bottom-navigation
+https://gallery.flutter.dev/#/demo/tabs
