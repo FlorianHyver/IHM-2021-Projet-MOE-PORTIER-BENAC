@@ -45,7 +45,3 @@ Liste non exhaustive des réseaux sociaux :
 
 ### Dossier Prototypes
 [Prototypes](https://drive.google.com/drive/folders/1t6Czd3xJieQmJq3jf0wBgvurOrSrlPgE?usp=sharing)
-
-Ressources Flutter
-https://gallery.flutter.dev/#/demo/bottom-navigation
-https://gallery.flutter.dev/#/demo/tabs
