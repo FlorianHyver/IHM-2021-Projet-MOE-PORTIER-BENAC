@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.settings.SettingsFragment">
+
+        <!-- GESTION DES RESEAUX SOCIAUX -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/leftarrow"
+                android:layout_margin="15dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:onClick="showPost"
+                app:tint="@color/colorPrimaryDark"
+                tools:ignore="OnClick" />
+            <TextView
+                style="@style/titleParameter"
+                android:text="@string/accountManagement"
+                android:gravity="center" />
+        </TableRow>
+        <!-- FACEBOOK -->
+        <Button
+            style="@style/button"
+            android:id="@+id/facebookConnexion"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableLeft="@drawable/facebook_couleur"
+            android:text="@string/facebook"
+            android:drawableRight="@drawable/check"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF" />
+        <!-- TWITTER -->
+        <Button
+            style="@style/button"
+            android:id="@+id/twitterConnexion"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableLeft="@drawable/twitter_couleur"
+            android:drawableRight="@drawable/check"
+            android:text="@string/twitter"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF" />
+        <!-- TIKTOK -->
+        <Button
+            style="@style/button"
+            android:id="@+id/tiktokConnexion"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableLeft="@drawable/tiktok"
+            android:drawableRight="@drawable/check"
+            android:text="@string/tiktok"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF" />
+        <!-- INSTAGRAM -->
+        <Button
+            style="@style/button"
+            android:id="@+id/instagramConnexion"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableStart="@drawable/instagram_couleur"
+            android:text="@string/instagram"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF" />
+        <!-- LINKEDIN -->
+        <Button
+            style="@style/button"
+            android:id="@+id/linkedinConnexion"
+            android:backgroundTint="@color/colorAccent"
+            android:drawableLeft="@drawable/linkedin"
+            android:text="@string/linkedin"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF" />
+        <!-- SNAPCHAT -->
+        <Button
+            style="@style/button"
+            android:id="@+id/snapchatConnexion"
+            android:drawableLeft="@drawable/snapchat"
+            android:backgroundTint="@color/colorAccent"
+            android:text="@string/snapchat"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF">
+        </Button>
+
+        <!-- GESTION LISTE DE DIFFUSION-->
+        <TextView
+            style="@style/titleParameter"
+            android:text="@string/diffusionList"
+            android:gravity="center"/>
+        <CheckBox style="@style/checkBox" android:text="@string/facebook"></CheckBox>
+        <CheckBox style="@style/checkBox" android:text="@string/twitter"></CheckBox>
+        <CheckBox style="@style/checkBox" android:text="@string/tiktok"></CheckBox>
+        <CheckBox style="@style/checkBox" android:text="@string/instagram"></CheckBox>
+        <CheckBox style="@style/checkBox" android:text="@string/linkedin"></CheckBox>
+        <CheckBox style="@style/checkBox" android:text="@string/snapchat"></CheckBox>
+
+        <Button
+            android:id="@+id/save"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:backgroundTint="@color/colorPrimaryDark"
+            android:text="@string/save"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF">
+        </Button>
+
+    </TableLayout>
+</ScrollView>

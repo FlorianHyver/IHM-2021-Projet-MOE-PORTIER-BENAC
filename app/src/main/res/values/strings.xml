@@ -1,0 +1,28 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">LinkMe</string>
+
+    <!-- Onglets dans la barre inférieure -->
+    <string name="title_post">Post</string>
+    <string name="title_plus">Nouveau</string>
+    <string name="title_story">Story</string>
+
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie
+        metus convallis quam convallis efficitur.
+    </string>
+
+    <string name="story_part">Partie story</string>
+
+    <string name="accountManagement">Gestion des comptes</string>
+    <string name="diffusionList">Liste de diffusion</string>
+
+    <string name="facebook">&#032;&#032;Facebook</string>
+    <string name="twitter">&#032;&#032;Twitter</string>
+    <string name="tiktok">&#032;&#032;Tiktok</string>
+    <string name="instagram">&#032;&#032;Instagram</string>
+    <string name="linkedin">&#032;&#032;Linkedin</string>
+    <string name="snapchat">&#032;&#032;Snapchat</string>
+
+    <string name="save">Sauvegarder</string>
+</resources>
