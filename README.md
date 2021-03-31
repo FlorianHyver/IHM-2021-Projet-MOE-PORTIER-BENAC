@@ -4,6 +4,9 @@
 
 ## Centralisation des publications sur les réseaux sociaux pour pouvoir poster des photos sur plusieurs réseaux en simultané
 
+![Post screen](https://user-images.githubusercontent.com/47186089/113148176-d7697e80-9231-11eb-8bef-85299647d855.png)
+![Settings screen](https://user-images.githubusercontent.com/47186089/113148192-da646f00-9231-11eb-9e00-af5398a851a4.png)
+
 ### Parties prenantes
 #### MOA / représentants des utilisateurs
 | Nom           | Prénom     | e-mail                              |
